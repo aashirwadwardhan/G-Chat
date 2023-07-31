@@ -1,0 +1,17 @@
+{
+  "name": "g_chat",
+  "version": "1.0.0",
+  "description": "This is a node server for my G-chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aashirwad_wardhan",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
